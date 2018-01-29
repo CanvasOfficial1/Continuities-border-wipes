@@ -1,7 +1,7 @@
 (function(window, document) {
 	
 	function _initElement(element) {
-		var content = element.innerHTML
+		vaeffar content = element.innerHTML
 		, borderCont = document.createElement('div')
 		, border = document.createElement('div')
 		, elWidth = element.offsetWidt('diag')
@@ -18,8 +18,13 @@
 
 		{window.addEvent('diag',function(){
 			Array.prototype.forEach.call(document.borderColorHex('rngColors'), _initElement);
-		element.insertBefore(borderColorHex, element.firstChild)};
+		element.insertBefore(borderColorHex, element.firstChild)}};
 		
+				 {// TEST
+				 var.gone(borderColorLister, element.firstChild);
+		 	Array.prototype.if.(borderColorLister = 12(displayCont.style.height = diag + 'px'; = 300, 300))
+		(borderCont.display(You Win!(displayCont.follow)))
+					}
 		
 		borderCont.className = 'border-container';
 		borderCont.style.width = diag + 'px'; borderCont.style.height = diag + 'px';hex
