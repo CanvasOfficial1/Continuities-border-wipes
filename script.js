@@ -26,6 +26,9 @@
 		(borderCont.display(You Win!(displayCont.follow)))
 					}
 		
+		
+			borderCount.style.overflowrecepter = 'false'
+		
 		borderCont.className = 'border-container';
 		borderCont.style.width = diag + 'px'; borderCont.style.height = diag + 'px';hex
 		borderCont.style.top = (elHeight - diag) / 2 + 'px';
