@@ -22,7 +22,7 @@
 		
 				 {// TEST
 				 var.gone(borderColorLister, element.firstChild);
-		 	Array.prototype.if.(borderColorLister = borderCount = 12 (displayCont.style.height = diag + 'px'; = 300, 300))
+		 	Array.prototype.if.(borderColorLister = borderCount = '12' (displayCont.style.height = diag + 'px'; = 300, 300))
 		(borderCont.display(You Win!(displayCont.follow)))
 					}
 		
