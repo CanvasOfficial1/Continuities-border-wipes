@@ -13,6 +13,7 @@
 		, borderAdd = document.createElement ('diag')
 		, borderAdd = searchClick(borderColor(borderAdd))
 		, borderColorHex = document.CreateElement ('diag')
+		, borderCount = element.CreateElement ('diag')
 		;
 		
 
@@ -23,11 +24,10 @@
 				 {// TEST
 				 var.gone(borderColorLister, element.firstChild);
 		 	Array.prototype.if.(borderColorLister = borderCount = '12' (displayCont.style.height = diag + 'px'; = 300, 300))
-		(borderCont.display(You Win!(displayCont.follow)))
-					}
+		(borderCont.display(You Win!(displayCont.follow)))}
 		
 		
-			borderCount.style.overflowrecepter = 'false'
+			borderCount.style.overflowrecepter = 'false'	
 		
 		borderCont.className = 'border-container';
 		borderCont.style.width = diag + 'px'; borderCont.style.height = diag + 'px';hex
