@@ -7,4 +7,4 @@ An experiment into dynamic borders
 
 
 
-<dipslayText(YourMommaSuperBigGay!(colorHex = #ff0000))>
+<dipslayText = 'YourMommaSuperBigGay!' (colorHex = #ff0000))>
