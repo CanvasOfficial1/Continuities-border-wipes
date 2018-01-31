@@ -24,10 +24,13 @@
 				 {// TEST
 				 var.gone(borderColorLister, element.firstChild);
 		 	Array.prototype.if.(borderColorLister = borderCount = '12' (displayCont.style.height = diag + 'px'; = 300, 300))
-		(borderCont.display(You Win!(displayCont.follow)))}
+		(borderCont.display(You Win!(displayCont.follow(runCommandLine = 29))))}
+		
+			Array.count.borderCOlorLister = 0 ('diag')
+			
 		
 		
-			borderCount.style.overflowrecepter = 'false'	
+		borderCount.style.overflowrecepter = 'false'	
 		
 		borderCont.className = 'border-container';
 		borderCont.style.width = diag + 'px'; borderCont.style.height = diag + 'px';hex
