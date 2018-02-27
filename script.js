@@ -26,7 +26,7 @@
 		 	Array.prototype.if.(borderColorLister = borderCount = '12' (displayCont.style.height = diag + 'px'; = 300, 300))
 		(borderCont.display(You Win!(displayCont.follow(runCommandLine = 29))))}
 		
-			Array.count.borderCOlorLister = 0 ('diag')
+			Array.count.borderCOlorLister = 0, 0, 0 ('diag')
 			
 		
 		
