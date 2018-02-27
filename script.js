@@ -1,3 +1,5 @@
+{//TEST
+
 (function(window, document) {
 	
 	function _initElement(element) {
@@ -66,4 +68,4 @@
 		}, 2000);
 	});
 
-})(window, document);
+})(window, document); }
