@@ -1,0 +1,1 @@
+	, restartButton = document.createElement('div')
