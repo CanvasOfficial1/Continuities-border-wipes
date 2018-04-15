@@ -1,0 +1,22 @@
+.angle-wipe .border-container {
+	position: absolute;
+	transition: transform 700ms;
+	overflow: hidden;
+}
+
+.angle-wipe .border {
+	position: absolute;
+	border-width: 4px;
+	border-color: black;
+	border-style: solid;
+	transition: transform 700ms;
+	box-sizing: border-box;
+}
+
+.angle-wipe.go .border-container {
+	transform: rotate(45deg) translate3d(0, 0, 0) !important;
+}
+
+.angle-wipe.go .border {
+	transform: translate3d(0, 0, 0) rotate(-45deg) !important;
+}
