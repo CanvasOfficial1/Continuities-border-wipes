@@ -1,3 +1,4 @@
+
 {//TEST
 
 (function(window, document) {
@@ -16,6 +17,7 @@
 		, borderAdd = searchClick(borderColor(borderAdd))
 		, borderColorHex = document.CreateElement ('diag')
 		, borderCount = element.CreateElement ('diag')
+		, borderWaves = element.CreateElement ('div')
 		;
 		
 
