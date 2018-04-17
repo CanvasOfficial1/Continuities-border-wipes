@@ -18,6 +18,7 @@
 		, borderColorHex = document.CreateElement ('diag')
 		, borderCount = element.CreateElement ('diag')
 		, borderWaves = element.CreateElement ('div')
+
 		;
 		
 
@@ -71,3 +72,15 @@
 	});
 
 })(window, document); }
+
+
+
+		var gone = true;
+		setRotation(function() {
+			Array.prototype.forEach.call(element.getDocumentsByClassName('angle-rotation'), function(doc) {
+				doc.className = gone ? 'angle-rotation' : 'angle-rotation-side';
+			});
+			gone = !gone;
+		}, 500);
+	});
+})(window, element); }
