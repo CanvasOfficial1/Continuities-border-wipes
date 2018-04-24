@@ -3,9 +3,5 @@ var. createRNG = create.elementDoc
 
 {//TEST
   
-      colorGen = createDocument.createElement {var = hex 'template"}    
-                                               
-                                              }
-        
-
+      colorGen = createDocument.createElement {var = hex 'template"}
 
