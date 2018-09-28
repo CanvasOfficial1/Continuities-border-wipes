@@ -1,10 +1,9 @@
 var. createRNG = create.elementDoc
-    Array.createPrototype('colorGen')
+    Array.createPrototype('colorGen') 
 
 {//TEST
   
-      colorGen = createElement.spawn ('colorGen') {var = hex '#FFFFFF',}
-      
-      
-      
+      colorGen = createElement.spawn ('colorGen') {var = hex '#FFFFFF','#C0C0C0''#ff0000'}
+     
+}      
 
